@@ -7,4 +7,4 @@ The program should operate on the console. It should display all the choices whe
 
 Your program should have a minimum of 2 classes a Person class, an Address  class.
 
-Test cases: John Doe, 114 Market St, St Louis, MO, 63403, 6366435698 / John E Doe, 324 Main St, St Charles, MO,63303, 8475390126  / John Michael West Doe, 574 Pole Ave, St. Peters, MO, 63333, 5628592375.  Searching for John should return a list of all 3 records above, displaying the telephone numbers in this format (636)453-8563.
+Test cases: John Doe, 114 Market St, St Louis, MO, 63403, 6366435698 / John E Doe, 324 Main St, St Charles, MO,63303, 8475390126  / John Michael West Doe, 574 Pole Ave, St. Peters, MO, 63333, 5628592375.  Searching for John should return a list of all 3 records above, displaying the telephone numbers in this format (636) 453-8563.
